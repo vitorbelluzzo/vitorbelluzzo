@@ -1,20 +1,16 @@
-<div align="center">
-  <h1>Vitor Belluzzo</h1>
-  <h3>Developer from São Paulo, Brazil</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/vitorbelluzzo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:vitorbelluzzo@hotmail.com" target="_blank"><img src="https://imgs.search.brave.com/1HJCf7yvvnfWz0tLBQDoya-VjsDAWaAKgYqC6l02-Lo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9NaWNyb3Nv/ZnRfT3V0bG9vay9N/aWNyb3NvZnRfT3V0/bG9vay1Mb2dvLndp/bmUuc3Zn.svg" alt="Email" height="40" width="40" /></a>
-</p>
-  
+#  About Me:
+Full Stack Typescript Developer
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
+##  Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorbelluzzo) 
+
+#  Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+#  GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=vitorbelluzzo&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbelluzzo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?vitorbelluzzo=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorbelluzzo&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
