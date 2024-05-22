@@ -1,8 +1,6 @@
 #  About Me:
 Full Stack Typescript Developer
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorbelluzzo) 
