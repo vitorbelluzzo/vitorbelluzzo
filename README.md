@@ -1,5 +1,5 @@
 #  About Me:
-Full Stack Typescript Developer
+Full Stack Developer
 
 
 ##  Socials:
