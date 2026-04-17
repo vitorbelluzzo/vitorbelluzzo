@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Vitor</h1>
 <p align="center">
-  Backend Developer • Java & Spring Boot • Building in Public
+  Fullstack Developer • Software Architecture Enthusiast • Code & Coffee
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ╭────────────────────────────────────────────────────────────╮
 │     vitor@devmachine                                       │     
 │     Uptime: a few strong years — still booting up          │
-│     Hostname: backend.local                                │
+│     Hostname: fullstack.local                              │
 │     Kernel: java-developer-builder v26.04                  │
 ╰────────────────────────────────────────────────────────────╯
 ```
@@ -17,7 +17,7 @@
 ```shell
 ┌─[ About Me ]
 │    
-│ ☕  Backend Developer — Java, Spring Boot, REST APIs
+│ ☕  Fullstack Developer — from clean UI to robust backend
 │ 🏗️  Exploring hexagonal architecture & reactive programming
 │ 🚀  Building a SaaS on the side 
 │
