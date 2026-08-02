@@ -2,9 +2,6 @@
 <p align="center">
   Fullstack Developer 
 </p>
-
----
-
 ```shell
 ╭────────────────────────────────────────────────────────────╮
 │     vitor@devmachine                                       │     
