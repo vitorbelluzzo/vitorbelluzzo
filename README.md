@@ -1,5 +1,3 @@
-
-
 ```shell
 ╭────────────────────────────────────────────────────────────╮
 │     vitor@devmachine                                       │     
@@ -8,17 +6,6 @@
 │     Kernel: java-developer-builder v26.04                  │
 ╰────────────────────────────────────────────────────────────╯
 ```
-
-```shell
-┌─[ About Me ]
-│    
-│   Fullstack Developer — from clean UI to robust backend
-│   Exploring hexagonal architecture & reactive programming
-│   Building a SaaS on the side 
-│
-└────────────────────────────────────────────────────────────
-```
-
 ```shell
 ┌─[ Tech Stack ]
 │
@@ -31,10 +18,7 @@
 │
 └────────────────────────────────────────────────────────────
 ```
-
 ```shell
-
-
 │ > Understand before you implement.
 │ > Architecture is about trade-offs.
 └────────────────────────────────────────────────────────────
