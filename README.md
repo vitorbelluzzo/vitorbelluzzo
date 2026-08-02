@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Vitor</h1>
 <p align="center">
-  Fullstack Developer • Software Architecture Enthusiast • Code & Coffee
+  Fullstack Developer 
 </p>
 
 ---
