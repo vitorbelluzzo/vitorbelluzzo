@@ -7,8 +7,6 @@
 ╰────────────────────────────────────────────────────────────╯
 ```
 ```shell
-┌─[ Tech Stack ]
-│
 │  Languages:    Java • TypeScript • SQL
 │  Backend:      Spring Boot •  Node.JS
 │  Databases:    PostgreSQL 
